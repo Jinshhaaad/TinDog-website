@@ -1,0 +1,80 @@
+body{
+    font-family: "montserrat";
+}
+#title {
+    background-color: #ff4c68;
+    color: white;
+    line-height: 2.5;
+    font-weight: bold;
+
+}
+h1 {
+    font-family: "montserrat-black";
+    font-size: 10rem;
+    line-height: 2.5;
+    font-weight: bold;
+    
+}
+.navbar{
+    padding-bottom: 4.5rem;
+    padding-left: 5%;
+}
+.navbar-brand{
+font-size: "ubundu";
+font-size: 2.5rem;
+font-weight: bold;
+}
+.nav-item{
+    padding-left: 2.5rem;
+    padding: 0 100px;
+}
+.title-image{
+    padding-left: 30%;
+    padding-bottom: 10%;
+    width: 50%;
+    transform: rotate(25deg);
+}
+.icon
+{
+    color: #ff4c68;
+}
+#features{
+    padding: 10%;
+}
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+h3{
+    font-family: "montserrat-bold";
+}
+
+#testimonials{
+padding: 7% 15%;
+text-align: center;
+background-color: #ff4c68;
+}
+#press{
+    background-color: #ff4c68;
+  text-align: center;
+  padding-bottom: 3%;
+}
+#pricing{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ff4c68;
+}
+#card{
+    background-color: blueviolet;
+}
+#card-body{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: bisque;
+}
+#cta{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ff4c68; 
+  
+}
